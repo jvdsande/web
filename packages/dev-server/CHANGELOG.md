@@ -1,5 +1,13 @@
 # @web/dev-server
 
+## 0.1.7
+
+### Patch Changes
+
+- 096fe25f: add stream close error to filter
+- Updated dependencies [096fe25f]
+  - @web/dev-server-core@0.3.6
+
 ## 0.1.6
 
 ### Patch Changes
